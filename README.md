@@ -1,4 +1,7 @@
 # newsfeed
+![image](https://user-images.githubusercontent.com/5999779/157379211-e0f99495-be39-44f0-a4e0-db914d451f95.png)
+
+
 
 requirements.txt
 
